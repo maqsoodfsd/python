@@ -1,2 +1,2 @@
-# python_1
+# python
 Practice of basic commands in Python
